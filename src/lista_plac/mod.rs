@@ -1,5 +1,5 @@
-pub mod obliczenia;
-pub mod parametry;
+mod obliczenia;
+mod parametry;
 mod pomocnicze;
 
 pub use obliczenia::ListaPlac;
