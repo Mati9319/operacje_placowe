@@ -1,6 +1,6 @@
 pub mod obliczenia;
 pub mod parametry;
-pub mod pomocnicze;
+mod pomocnicze;
 
 pub use obliczenia::ListaPlac;
 pub use parametry::*;
